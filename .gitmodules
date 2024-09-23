@@ -1,0 +1,4 @@
+[submodule "device-sdk"]
+        path = device-sdk
+        url = ssh://git@192.168.11.181:3022/wisdom-gw/device-sdk.git
+
